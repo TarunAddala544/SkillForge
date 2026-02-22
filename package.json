@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express-rate-limit": "^8.2.1"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10"
+  }
+}
